@@ -1,0 +1,12 @@
+C:\source\C#\UtahPlanners3\UtahPlanners.Application\UtahPlanners.Web\bin\UtahPlanners.Web.dll.config
+C:\source\C#\UtahPlanners3\UtahPlanners.Application\UtahPlanners.Web\bin\UtahPlanners.Web.dll
+C:\source\C#\UtahPlanners3\UtahPlanners.Application\UtahPlanners.Web\bin\UtahPlanners.Web.pdb
+C:\source\C#\UtahPlanners3\UtahPlanners.Application\UtahPlanners.Web\obj\Debug\UtahPlanners.Web.csprojResolveAssemblyReference.cache
+C:\source\C#\UtahPlanners3\UtahPlanners.Application\UtahPlanners.Web\obj\Debug\UtahPlanners.Web.dll
+C:\source\C#\UtahPlanners3\UtahPlanners.Application\UtahPlanners.Web\obj\Debug\UtahPlanners.Web.pdb
+C:\source\C#\UtahPlanners3\UtahPlanners.Web\bin\UtahPlanners.Web.dll.config
+C:\source\C#\UtahPlanners3\UtahPlanners.Web\bin\UtahPlanners.Web.dll
+C:\source\C#\UtahPlanners3\UtahPlanners.Web\bin\UtahPlanners.Web.pdb
+C:\source\C#\UtahPlanners3\UtahPlanners.Web\obj\Debug\UtahPlanners.Web.csprojResolveAssemblyReference.cache
+C:\source\C#\UtahPlanners3\UtahPlanners.Web\obj\Debug\UtahPlanners.Web.dll
+C:\source\C#\UtahPlanners3\UtahPlanners.Web\obj\Debug\UtahPlanners.Web.pdb

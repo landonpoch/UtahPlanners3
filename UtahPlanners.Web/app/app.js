@@ -16,9 +16,18 @@ app.config(function ($routeProvider) {
         templateUrl: "/app/views/signup.html"
     });
 
+    $routeProvider.when("/properties", {
+        controller: "propertyController",
+        templateUrl: "/app/views/properties.html"
+    });
+
     $routeProvider.otherwise({ redirectTo: "/home" });
 });
 
 app.run(['authService', function (authService) {
     authService.fillAuthData();
 }]);
+
+app.config(function ($httpProvider) {
+    $httpProvider.interceptors.push('authInterceptorService');
+});
